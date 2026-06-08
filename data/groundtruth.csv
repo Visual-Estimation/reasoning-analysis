@@ -1,0 +1,459 @@
+filename,type,custom_prompt,shorthand_notes
+A-stability-image1.jpg,stability,How far out from the stack does the book have to be for it to fall?,15 cm
+A-stability-image2.jpg,stability,When the bat just falls off, how far will the bat be extending from the edge?,34 cm
+A-stability-image3.jpg,stability,At what distance from the wall does the base of the bat have to be for it to fall?,70 cm
+A-stability-image4.jpg,stability,"Continuing with the same pattern, adding how many more books will make the structure fall?",2 books
+A-fit-image1.jpg,fit,F06,Yes
+A-fit-image2.jpg,fit,F06,No
+A-fit-image3.jpg,fit,F07,Yes
+A-fit-image4.jpg,fit,F07,No
+A-fit-image5.jpg,fit,F07,Yes
+B-angle-image1.jpg,angle,A01,52.8 degree
+B-angle-image2.jpg,angle,A01,55 degree
+B-angle-image3.jpg,angle,A01,44 degree
+B-angle-image4.jpg,angle,A01,41.45 degree
+B-angle-image5.jpg,angle,A01,58 degree
+B-angle-image6.jpg,angle,A02,6.05 degree
+B-angle-image7.jpg,angle,A01,27.5 degree
+B-angle-image8.jpg,angle,A01,77.5 degree
+B-angle-image9.jpg,angle,A01,64 degree
+B-angle-image10.jpg,angle,A01,27 degree
+B-angle-image11.jpg,angle,A01,25 degree
+B-angle-image12.jpg,angle,A01,24.2 degree
+B-angle-image13.jpg,angle,A01,30 degree
+B-angle-image14.jpg,angle,A01,62.6 degree
+B-angle-image15.jpg,angle,A01,106.9 degree
+B-angle-image16.jpg,angle,A01,50.50 degree
+B-angle-image17.jpg,angle,A01,59 degree
+B-angle-image18.jpg,angle,A02,128.57 degree
+B-angle-image19.jpg,angle,A01,78.4 degree
+B-angle-image20.jpg,angle,A01,24 degree
+B-fit-image1.jpg,fit,F01,No
+B-fit-image2.jpg,fit,F06,No
+B-fit-image3.jpg,fit,F07,No
+B-fit-image4.jpg,fit,F07,Yes
+B-fit-image6.jpg,fit,F07,Yes
+B-stability-image2.jpg,stability,S01,2.6 cm
+B-stability-image3.jpg,stability,Estimate the minimum angle by which to rotate the object marked in red for it to become stable.,13 degree
+B-stability-image4.jpg,stability,S03,45 degree
+B-stability-image5.jpg,stability,S01,4.5 cm
+B-stability-image6.jpg,stability,S02,5 cm
+B-stability-image7.jpg,stability,S04,28 degree
+B-stability-image8.jpg,stability,Estimate the minimum weight (marked in blue) that can be taken off to make the object in the red bounding box fall. (weights: 20g 20g 50g 100g),90 grams
+B-stability-image9.jpg,stability,Estimate the minimum weight (marked in blue) that can be put on the object in the red boudngin box to make it fall. (weights: 10g 20g 20g 50g 100g),50 grams
+B-stability-image10.jpg,stability,S01,2.5 cm
+B-stability-image11.jpg,stability,Estimate how many more blocks can be added to the stack in the same pattern for it to fall.,3 blocks
+B-stability-image12.jpg,stability,S02,3.5 cm
+B-stability-image13.jpg,stability,S05,2 cm
+B-stability-image14.jpg,stability,S06,50 degree
+B-stability-image15.jpg,stability,S05,9.5 cm
+B-liquid_volume-image1.jpg,liquid_volume,Estimate the volume of the object in the red bounding box.,236436 mL
+B-weight-image1.jpg,weight,Estimate the weight of the objects in the red boudning box.,8000 grams
+B-weight-image2.jpg,weight,W06,13400 grams
+B-weight-image3.jpg,weight,W06,18100 grams
+B-weight-image4.jpg,weight,W06,5000 grams
+B-weight-image5.jpg,weight,W06,4000 grams
+filename,type,custom_prompt,shorthand_notes
+M-angle-image1.jpg,angle,A03,120 degree
+M-angle-image10.jpg,angle,A01,17.5 degree
+M-angle-image11.jpg,angle,A01,70.95 degree
+M-angle-image12.jpg,angle,A01,22 degree
+M-angle-image13.jpg,angle,A03,130 degree
+M-angle-image2-pov2.jpg,angle,A03,125 degree
+M-angle-image2.jpg,angle,A03,125 degree
+M-angle-image3.jpg,angle,A03,18.85 degree
+M-angle-image4.jpg,angle,A03,150 degree
+M-angle-image5.jpg,angle,A01,25 degree
+M-angle-image6.jpg,angle,A01,25 degree
+M-angle-image7.jpg,angle,A03,130 degree
+M-angle-image8.jpg,angle,A03,7.7 degree
+M-angle-image9.jpg,angle,A03,145 degree
+M-fit-image10-pov2.jpg,fit,F07,Yes
+M-fit-image10-pov3.jpg,fit,F07,Yes
+M-fit-image10.jpg,fit,F07,Yes
+M-fit-image11-pov2.jpg,fit,F07,Yes
+M-fit-image11.jpg,fit,F07,Yes
+M-fit-image12.jpg,fit,F07,Yes
+M-fit-image13-pov2.jpg,fit,F06,Yes
+M-fit-image13.jpg,fit,F06,Yes
+M-fit-image14.jpg,fit,F06,Yes
+M-fit-image15.jpg,fit,F07,Yes
+M-fit-image16.jpg,fit,F06,Yes
+M-fit-image17-pov2.jpg,fit,F01,Yes
+M-fit-image17.jpg,fit,F01,Yes
+M-fit-image18-pov2.jpg,fit,F01,No
+M-fit-image18.jpg,fit,F01,No
+M-fit-image19.jpg,fit,F06,Yes
+M-fit-image2.jpg,fit,F06,Yes
+M-fit-image21.jpg,fit,F06,No
+M-fit-image22.jpg,fit,F07,Yes
+M-fit-image23.jpg,fit,F06,Yes
+M-fit-image4.jpg,fit,F06,Yes
+M-fit-image5.jpg,fit,F06,Yes
+M-fit-image6.jpg,fit,F06,No
+M-fit-image7.jpg,fit,F07,Yes
+M-fit-image8-pov2.jpg,fit,F07,Yes
+M-fit-image8.jpg,fit,F07,Yes
+M-fit-image9.jpg,fit,F07,Yes
+M-liquid_volume-image1.jpg,liquid_volume,L01,320 mL
+M-stability-image2.jpg,stability,S02,7 cm
+M-stability-image3.jpg,stability,S02,2 cm
+M-stability-image6.jpg,stability,Estimate the distance the object in the red bounding box needs to be moved inwards to avoid falling.,3 cm
+M-stability-image7.jpg,stability,S02,2.5 cm
+M-stability-image8.jpg,stability,S02,55 cm
+M-stability-image9.jpg,stability,S02,26 cm
+M-stability-image10.jpg,stability,S02,3.5 cm
+M-stability-image11.jpg,stability,S02,16 cm
+M-stability-image13.jpg,stability,S06,56.4 degree
+M-stability-image14.jpg,stability,S02,14 cm
+M-stability-image15.jpg,stability,S07,40 mL
+M-stability-image16.jpg,stability,S07,200 mL
+M-stability-image18.jpg,stability,S09,100 mL
+M-stability-image19.jpg,stability,S01,163 grams
+M-stability-image20.jpg,stability,S02,18 cm
+M-stability-image21.jpg,stability,S02,8 cm
+M-stability-image22.jpg,stability,S02,26 cm
+M-stability-image23.jpg,stability,S02,48 cm
+M-weight-image1.jpg,weight,W04,70000 grams
+M-weight-image2.jpg,weight,W04,30000 grams
+filename,type,custom_prompt,shorthand_notes
+P-angle-image1.jpg,angle,A01,41.4 degree
+P-angle-image11.jpg,angle,A01,22.3 degree
+P-angle-image12.jpg,angle,A01,26.5 degree
+P-angle-image14.jpg,angle,A01,45.1 degree
+P-angle-image15.jpg,angle,A01,37 degree
+P-angle-image17.jpg,angle,A01,46.35 degree
+P-angle-image18.jpg,angle,A01,37.25 degree
+P-angle-image19.jpg,angle,A01,70.8 degree
+P-angle-image20.jpg,angle,A01,63 degree
+P-angle-image21.jpg,angle,A01,49.4 degree
+P-angle-image22.jpg,angle,A01,50.5 degree
+P-angle-image23.jpg,angle,A01,62.2 degree
+P-angle-image24.jpg,angle,A01,23.25 degree
+P-angle-image26.jpg,angle,A01,52 degree
+P-angle-image27.jpg,angle,A02,28.15 degree
+P-angle-image28.jpg,angle,A01,14.6 degree
+P-angle-image29.jpg,angle,A01,19 degree
+P-angle-image3.jpg,angle,A01,67.5 degree
+P-angle-image30.jpg,angle,A01,27.45 degree
+P-angle-image31.jpg,angle,A01,33.85 degree
+P-angle-image32.jpg,angle,A01,67.95 degree
+P-angle-image33.jpg,angle,A01,37.2 degree
+P-angle-image34.jpg,angle,A01,13.9 degree
+P-angle-image35.jpg,angle,A01,11.3 degree
+P-angle-image36.jpg,angle,A01,63.35 degree
+P-angle-image37.jpg,angle,A01,45 degree
+P-angle-image38.jpg,angle,A01,23.7 degree
+P-angle-image39.jpg,angle,A01,42 degree
+P-angle-image4.jpg,angle,A03,114 degree
+P-angle-image40-pov2.jpg,angle,A02,55 degree
+P-angle-image40.jpg,angle,A02,55 degree
+P-angle-image41.jpg,angle,A01,48 degree
+P-angle-image5.jpg,angle,A03,52.1 degree
+P-angle-image7.jpg,angle,A01,22.8 degree
+P-angle-image8.jpg,angle,A01,59.7 degree
+P-angle-image9.jpg,angle,A01,37.2 degree
+P-fit-image1.jpg,fit,F01,No
+P-fit-image10.jpg,fit,F01,No
+P-fit-image11.jpg,fit,F05,No
+P-fit-image12.jpg,fit,F01,No
+P-fit-image13.jpg,fit,F02,Yes
+P-fit-image14.jpg,fit,F01,Yes
+P-fit-image15.jpg,fit,F01,No
+P-fit-image16.jpg,fit,F01,Yes
+P-fit-image17.jpg,fit,F01,No
+P-fit-image18.jpg,fit,F01,Yes
+P-fit-image19.jpg,fit,F04,No
+P-fit-image20.jpg,fit,F01,No
+P-fit-image21.jpg,fit,F01,Yes
+P-fit-image22.jpg,fit,F01,Yes
+P-fit-image23.jpg,fit,F02,Yes
+P-fit-image24-pov2.jpg,fit,F01,Yes
+P-fit-image24.jpg,fit,F01,Yes
+P-fit-image25.jpg,fit,F06,No
+P-fit-image26-pov2.jpg,fit,F06,No
+P-fit-image26.jpg,fit,F06,No
+P-fit-image27-pov2.jpg,fit,F06,Yes
+P-fit-image27.jpg,fit,F06,Yes
+P-fit-image28.jpg,fit,F06,Yes
+P-fit-image29.jpg,fit,F06,Yes
+P-fit-image3.jpg,fit,F02,Yes
+P-fit-image30-pov2.jpg,fit,F06,Yes
+P-fit-image30.jpg,fit,F06,Yes
+P-fit-image31-pov2.jpg,fit,"Can the salt fit inside the bowl?",Yes
+P-fit-image31.jpg,fit,"Can the salt fit inside the bowl?",Yes
+P-fit-image32-pov2.jpg,fit,"Can the salt fit inside the bowl?",No
+P-fit-image32.jpg,fit,"Can the salt fit inside the bowl?",No
+P-fit-image33-pov2.jpg,fit,"Will the potatos fit inside the plastic bag?",Yes
+P-fit-image33.jpg,fit,"Will the potatos fit inside the plastic bag?",Yes
+P-fit-image34-pov2.jpg,fit,"Will the potatos fit inside the plastic bag?",No
+P-fit-image34.jpg,fit,"Will the potatos fit inside the plastic bag?",No
+P-fit-image4.jpg,fit,F01,Yes
+P-fit-image5.jpg,fit,F01,Yes
+P-fit-image6.jpg,fit,F01,No
+P-fit-image7.jpg,fit,F01,Yes
+P-fit-image8.jpg,fit,F01,Yes
+P-fit-image9.jpg,fit,F01,Yes
+P-liquid_volume-image1.jpg,liquid_volume,L01,640 mL
+P-liquid_volume-image10.jpg,liquid_volume,L02,500 mL
+P-liquid_volume-image11.jpg,liquid_volume,L01,780 mL
+P-liquid_volume-image12.jpg,liquid_volume,L03,360 mL
+P-liquid_volume-image13.jpg,liquid_volume,L02,500 mL
+P-liquid_volume-image14.jpg,liquid_volume,L02,850 mL
+P-liquid_volume-image15.jpg,liquid_volume,L02,800 mL
+P-liquid_volume-image16.jpg,liquid_volume,L01,100 mL
+P-liquid_volume-image17.jpg,liquid_volume,L02,350 mL
+P-liquid_volume-image18.jpg,liquid_volume,L02,350 mL
+P-liquid_volume-image19.jpg,liquid_volume,L02,400 mL
+P-liquid_volume-image2.jpg,liquid_volume,L01,500 mL
+P-liquid_volume-image20.jpg,liquid_volume,L02,800 mL
+P-liquid_volume-image21.jpg,liquid_volume,L06,50 mL
+P-liquid_volume-image22.jpg,liquid_volume,L06,550 mL
+P-liquid_volume-image23.jpg,liquid_volume,L02,887 mL
+P-liquid_volume-image24.jpg,liquid_volume,L02,500 mL
+P-liquid_volume-image25.jpg,liquid_volume,L02,1000 mL
+P-liquid_volume-image26.jpg,liquid_volume,L01,130 mL
+P-liquid_volume-image27.jpg,liquid_volume,L03,610 mL
+P-liquid_volume-image28.jpg,liquid_volume,L01,500 mL
+P-liquid_volume-image29.jpg,liquid_volume,L02,1500 mL
+P-liquid_volume-image3.jpg,liquid_volume,L02,50 mL
+P-liquid_volume-image30.jpg,liquid_volume,L01,260 mL
+P-liquid_volume-image31.jpg,liquid_volume,L02,350 mL
+P-liquid_volume-image32.jpg,liquid_volume,L02,350 mL
+P-liquid_volume-image33.jpg,liquid_volume,L02,1000 mL
+P-liquid_volume-image34.jpg,liquid_volume,L02,800 mL
+P-liquid_volume-image35.jpg,liquid_volume,L02,710 mL
+P-liquid_volume-image36.jpg,liquid_volume,L02,500 mL
+P-liquid_volume-image37.jpg,liquid_volume,L02,1000 mL
+P-liquid_volume-image38.jpg,liquid_volume,L02,1000 mL
+P-liquid_volume-image4.jpg,liquid_volume,L02,500 mL
+P-liquid_volume-image40.jpg,liquid_volume,L02,50 mL
+P-liquid_volume-image41.jpg,liquid_volume,L02,400 mL
+P-liquid_volume-image42.jpg,liquid_volume,L02,710 mL
+P-liquid_volume-image44.jpg,liquid_volume,L02,350 mL
+P-liquid_volume-image46.jpg,liquid_volume,L01,640 mL
+P-liquid_volume-image47.jpg,liquid_volume,L02,550 mL
+P-liquid_volume-image48.jpg,liquid_volume,L02,887 mL
+P-liquid_volume-image49.jpg,liquid_volume,L02,1000 mL
+P-liquid_volume-image5.jpg,liquid_volume,L02,100 mL
+P-liquid_volume-image50.jpg,liquid_volume,L02,200 mL
+P-liquid_volume-image51.jpg,liquid_volume,L02,500 mL
+P-liquid_volume-image53.jpg,liquid_volume,L02,1000 mL
+P-liquid_volume-image54.jpg,liquid_volume,L02,800 mL
+P-liquid_volume-image55.jpg,liquid_volume,L02,350 mL
+P-liquid_volume-image56.jpg,liquid_volume,L02,500 mL
+P-liquid_volume-image57.jpg,liquid_volume,L02,1500 mL
+P-liquid_volume-image58.jpg,liquid_volume,L02,350 mL
+P-liquid_volume-image59.jpg,liquid_volume,L02,800 mL
+P-liquid_volume-image6.jpg,liquid_volume,L02,850 mL
+P-liquid_volume-image60.jpg,liquid_volume,L02,1000 mL
+P-liquid_volume-image61.jpg,liquid_volume,L02,500 mL
+P-liquid_volume-image62.jpg,liquid_volume,L02,150 mL
+P-liquid_volume-image63.jpg,liquid_volume,L02,800 mL
+P-liquid_volume-image64.jpg,liquid_volume,L02,350 mL
+P-liquid_volume-image65.jpg,liquid_volume,L02,400 mL
+P-liquid_volume-image66.jpg,liquid_volume,L02,710 mL
+P-liquid_volume-image67.jpg,liquid_volume,L02,250 mL
+P-liquid_volume-image68.jpg,liquid_volume,L02,105840 mL
+P-liquid_volume-image69.jpg,liquid_volume,L02,20000 mL
+P-liquid_volume-image7.jpg,liquid_volume,L02,850 mL
+P-liquid_volume-image70.jpg,liquid_volume,L02,15858 mL
+P-liquid_volume-image71-pov2.jpg,liquid_volume,L02,400 mL
+P-liquid_volume-image71.jpg,liquid_volume,L02,400 mL
+P-liquid_volume-image72.jpg,liquid_volume,L02,350 mL
+P-liquid_volume-image73-pov2.jpg,liquid_volume,L02,1500 mL
+P-liquid_volume-image73.jpg,liquid_volume,L02,1500 mL
+P-liquid_volume-image74-pov2.jpg,liquid_volume,L02,28000 mL
+P-liquid_volume-image74.jpg,liquid_volume,L02,28000 mL
+P-liquid_volume-image75.jpg,liquid_volume,L02,350 mL
+P-liquid_volume-image8.jpg,liquid_volume,L02,1000 mL
+P-liquid_volume-image9.jpg,liquid_volume,L02,400 mL
+P-stability-image1.jpg,stability,S08,122 grams
+P-stability-image10.jpg,stability,S03,0 degree
+P-stability-image11.jpg,stability,S05,15 cm
+P-stability-image12.jpg,stability,S05,13 cm
+P-stability-image14.jpg,stability,S02,9.5 cm
+P-stability-image15.jpg,stability,S08,56 grams
+P-stability-image16.jpg,stability,S09,41 mL
+P-stability-image17.jpg,stability,S03,42 degree
+P-stability-image18.jpg,stability,S05,44 cm
+P-stability-image19.jpg,stability,S02,2.5 cm
+P-stability-image2.jpg,stability,S10,225 grams
+P-stability-image3.jpg,stability,S10,225 grams
+P-stability-image4.jpg,stability,"Estimate amount of water required to tip the balance to the other side",198 mL
+P-stability-image5.jpg,stability,"Estimate volume of water to make the structure fall.",175 grams
+P-stability-image6.jpg,stability,"Estimate weight to make the structure fall.",202 grams
+P-stability-image7.jpg,stability,"Estimate volume of water to make the structure fall.",423 mL
+P-stability-image8.jpg,stability,"Estimate the weight to make the structure fall.",450 grams
+P-stability-image9.jpg,stability,S03,28 degree
+P-weight-image1.jpg,weight,W01,102 grams
+P-weight-image10.jpg,weight,W01,104 grams
+P-weight-image11.jpg,weight,W01,355 grams
+P-weight-image12.jpg,weight,W01,82 grams
+P-weight-image13.jpg,weight,W01,56 grams
+P-weight-image15.jpg,weight,W01,138 grams
+P-weight-image16.jpg,weight,W01,573 grams
+P-weight-image17.jpg,weight,W01,215 grams
+P-weight-image18.jpg,weight,W01,573 grams
+P-weight-image19.jpg,weight,W03,528 grams
+P-weight-image2.jpg,weight,W03,528 grams
+P-weight-image20.jpg,weight,W03,56 grams
+P-weight-image21.jpg,weight,W01,158 grams
+P-weight-image22.jpg,weight,W01,102 grams
+P-weight-image23.jpg,weight,W01,437 grams
+P-weight-image24.jpg,weight,W01,4540 grams
+P-weight-image25.jpg,weight,W01,280 grams
+P-weight-image26.jpg,weight,W01,102 grams
+P-weight-image28.jpg,weight,W01,91 grams
+P-weight-image29.jpg,weight,W01,705 grams
+P-weight-image3.jpg,weight,W01,104 grams
+P-weight-image30.jpg,weight,W01,4210 grams
+P-weight-image31.jpg,weight,W01,673 grams
+P-weight-image32.jpg,weight,W01,437 grams
+P-weight-image33.jpg,weight,W03,108 grams
+P-weight-image35.jpg,weight,W01,355 grams
+P-weight-image36.jpg,weight,W03,529 grams
+P-weight-image37.jpg,weight,W01,437 grams
+P-weight-image39.jpg,weight,W01,175 grams
+P-weight-image4.jpg,weight,W01,125 grams
+P-weight-image40.jpg,weight,W01,135 grams
+P-weight-image41.jpg,weight,W01,437 grams
+P-weight-image42.jpg,weight,W03,963 grams
+P-weight-image44.jpg,weight,W01,502 grams
+P-weight-image45.jpg,weight,W01,9300 grams
+P-weight-image46.jpg,weight,W04,4220 grams
+P-weight-image47.jpg,weight,W01,188 grams
+P-weight-image48.jpg,weight,W01,175 grams
+P-weight-image49.jpg,weight,W03,528 grams
+P-weight-image5.jpg,weight,W01,104 grams
+P-weight-image50.jpg,weight,W01,705 grams
+P-weight-image51.jpg,weight,W01,211 grams
+P-weight-image53.jpg,weight,W04,150 grams
+P-weight-image54.jpg,weight,W01,91 grams
+P-weight-image55.jpg,weight,W01,573 grams
+P-weight-image56.jpg,weight,W01,573 grams
+P-weight-image57.jpg,weight,W01,355 grams
+P-weight-image58.jpg,weight,W03,170 grams
+P-weight-image59.jpg,weight,W01,573 grams
+P-weight-image6.jpg,weight,W01,82 grams
+P-weight-image60.jpg,weight,W03,55 grams
+P-weight-image61.jpg,weight,W01,305 grams
+P-weight-image63.jpg,weight,W03,3440 grams
+P-weight-image64.jpg,weight,W01,4500 grams
+P-weight-image65.jpg,weight,W01,6000 grams
+P-weight-image66.jpg,weight,W01,4050 grams
+P-weight-image67.jpg,weight,W01,2430 grams
+P-weight-image68.jpg,weight,W01,2000 grams
+P-weight-image69-pov2.jpg,weight,"Estimate the weight of the red-marked stack of books.",3591 grams
+P-weight-image69.jpg,weight,"Estimate the weight of the red-marked stack of books.",3591 grams
+P-weight-image7.jpg,weight,W03,528 grams
+P-weight-image70-pov2.jpg,weight,W01,1230 grams
+P-weight-image70.jpg,weight,W01,1230 grams
+P-weight-image71-pov2.jpg,weight,W01,7530 grams
+P-weight-image71.jpg,weight,W01,5730 grams
+P-weight-image72-pov2.jpg,weight,W04,2600 grams
+P-weight-image72.jpg,weight,W04,2600 grams
+P-weight-image73-pov2.jpg,weight,W04,12400 grams
+P-weight-image73.jpg,weight,W04,12400 grams
+P-weight-image74.jpg,weight,W01,15500 grams
+P-weight-image75.jpg,weight,"Estimate the weight of the sugar in the red marked area.",37 grams
+P-weight-image76.jpg,weight,"Estimate the weight of the sugar packet in the red marked area.",264 grams
+P-weight-image77-pov2.jpg,weight,"Estimate the weight of the sugar in the box in the red marked area.",766 grams
+P-weight-image77.jpg,weight,"Estimate the weight of the sugar in the box in the red marked area.",766 grams
+P-weight-image78-pov2.jpg,weight,"Estimate the weight of the salt in the red marked area.",96 grams
+P-weight-image78.jpg,weight,"Estimate the weight of the salt in the red marked area.",96 grams
+P-weight-image79-pov2.jpg,weight,W04,12 grams
+P-weight-image79.jpg,weight,W04,12 grams
+P-weight-image9.jpg,weight,W03,170 grams
+filename,type,custom_prompt,shorthand_notes
+V-angle-image11.jpg,angle,A03,64.9 degree
+V-angle-image22.jpg,angle,A03,54.15 degree
+V-angle-image29.jpg,angle,A03,64.5 degree
+V-angle-image30.jpg,angle,A03,79.9 degree
+V-angle-image31.jpg,angle,A03,22.5 degree
+V-angle-image32.jpg,angle,A03,37.6 degree
+V-angle-image33.jpg,angle,A03,40.75 degree
+V-angle-image34.jpg,angle,A03,40.5 degree
+V-angle-image39.jpg,angle,A03,48 degree
+V-angle-image40.jpg,angle,A03,72.2 degree
+V-angle-image41.jpg,angle,A03,70.9 degree
+V-angle-image48.jpg,angle,A03,68.4 degree
+V-angle-image51.jpg,angle,A03,62.05 degree
+V-angle-image59-pov2.jpg,angle,A03,47 degrees
+V-angle-image59.jpg,angle,A03,47 degrees
+V-angle-image65-pov2.jpg,angle,A03,62.75 degree
+V-angle-image65.jpg,angle,A03,62.75 degree
+V-angle-image66-pov2.jpg,angle,A03,66.15 degree
+V-angle-image66.jpg,angle,A03,66.15 degree
+V-angle-image68-pov2.jpg,angle,A03,69.5 degree
+V-angle-image68.jpg,angle,A03,69.5 degree
+V-angle-image69.jpg,angle,A03,52 degree
+V-angle-image70-pov2.jpg,angle,A03,49.6 degree
+V-angle-image70.jpg,angle,A03,49.6 degree
+V-angle-image71-pov2.jpg,angle,A03,40.35 degree
+V-angle-image71.jpg,angle,A03,40.35 degree
+V-angle-image72-pov2.jpg,angle,A03,62.6 degree
+V-angle-image72.jpg,angle,A03,62.6 degree
+V-angle-image73.jpg,angle,A03,47.6 degree
+V-angle-image74.jpg,angle,A03,28.3 degree
+V-fit-image1.jpg,fit,F06,No
+V-fit-image10.jpg,fit,F01,Yes
+V-fit-image12.jpg,fit,F06,Yes
+V-fit-image13.jpg,fit,F01,Yes
+V-fit-image14.jpg,fit,F01,Yes
+V-fit-image15.jpg,fit,F01,No
+V-fit-image16.jpg,fit,F06,Yes
+V-fit-image17.jpg,fit,F06,Yes
+V-fit-image18.jpg,fit,F01,Yes
+V-fit-image19.jpg,fit,"Can the objects in the red bounding box fit inside the blue-marked container if only width/diameter fit is considered (ignore height overflow)? Consider clearance and rotations needed.",Yes
+V-fit-image2.jpg,fit,F06,Yes
+V-fit-image20.jpg,fit,F01,No
+V-fit-image21.jpg,fit,F02,No
+V-fit-image23.jpg,fit,F01,Yes
+V-fit-image24.jpg,fit,F06,Yes
+V-fit-image25.jpg,fit,F06,Yes
+V-fit-image26.jpg,fit,F06,No
+V-fit-image27.jpg,fit,F02,Yes
+V-fit-image3.jpg,fit,"Can the objects in the red bounding box fit inside the blue-marked container if only width/diameter fit is considered (ignore height overflow)? Consider clearance and rotations needed.",No
+V-fit-image4.jpg,fit,F06,Yes
+V-fit-image5.jpg,fit,F02,Yes
+V-fit-image6.jpg,fit,F01,Yes
+V-fit-image61.jpg,fit,F06,Yes
+V-fit-image62.jpg,fit,F01,Yes
+V-fit-image63.jpg,fit,F01,Yes
+V-fit-image64-pov2.jpg,fit,F06,Yes
+V-fit-image64.jpg,fit,F06,Yes
+V-fit-image67-pov2.jpg,fit,F01,Yes
+V-fit-image67.jpg,fit,F01,Yes
+V-fit-image7.jpg,fit,F02,Yes
+V-fit-image75.jpg,fit,F01,Yes
+V-fit-image76.jpg,fit,F02,Yes
+V-fit-image77.jpg,fit,F06,Yes
+V-fit-image8.jpg,fit,F06,Yes
+V-fit-image9.jpg,fit,F06,Yes
+V-weight-image0.jpg,weight,W04,7352 grams
+V-weight-image28.jpg,weight,W01,3915 grams
+V-weight-image35.jpg,weight,W01,10702 grams
+V-weight-image36.jpg,weight,W03,1130 grams
+V-weight-image37.jpg,weight,W03,3356 grams
+V-weight-image38.jpg,weight,W01,3528 grams
+V-weight-image42.jpg,weight,W04,631 grams
+V-weight-image43.jpg,weight,W01,148 grams
+V-weight-image44.jpg,weight,W01,4570 grams
+V-weight-image45.jpg,weight,W01,403 grams
+V-weight-image46.jpg,weight,W01,489 grams
+V-weight-image47.jpg,weight,W01,297 grams
+V-weight-image49.jpg,weight,W01,264 grams
+V-weight-image50.jpg,weight,W01,297 grams
+V-weight-image52.jpg,weight,W04,7768 grams
+V-weight-image53.jpg,weight,W01,5331 grams
+V-weight-image54.jpg,weight,W04,212 grams
+V-weight-image55.jpg,weight,W01,15252 grams
+V-weight-image56.jpg,weight,W01,447 grams
+V-weight-image57.jpg,weight,W01,1989 grams
+V-weight-image58.jpg,weight,W01,1894 grams
+V-weight-image60-pov2.jpg,weight,W01,6900 grams
+V-weight-image60.jpg,weight,W01,6900 grams
+V-weight-image78.jpg,weight,W01,8000 grams
+V-weight-image79-pov2.jpg,weight,W01,6000 grams
+V-weight-image79.jpg,weight,W01,6000 grams
